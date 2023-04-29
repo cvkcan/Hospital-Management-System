@@ -101,7 +101,7 @@ namespace HospitalSystem.Views
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.BackgroundImage = global::HospitalSystem.Properties.Resources.login;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(156, 14);
             this.pictureBox1.Name = "pictureBox1";
