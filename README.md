@@ -15,6 +15,7 @@
 - If you don't enter the required fields, it gives a warning.
 - The app has **`search`** rows.
 - This project includes Secretary, Doctor and Main pages.
+- There is a diagnosis field that can be left blank.
 
 ###
 
