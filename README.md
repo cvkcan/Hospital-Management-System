@@ -25,5 +25,5 @@
 
 - **`MSSQL`** was used as the database.
 - The database contains **`Stock Procedure.`**
-
-
+- You can create the database with script.sql
+- If this database doesn't work, configure the Database.cs class in the Models folder.
